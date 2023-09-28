@@ -26,10 +26,6 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="48" height="48" />
-      <br>React
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="svelte" />
       <br>svelte
     </td>    
