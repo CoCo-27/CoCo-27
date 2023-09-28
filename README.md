@@ -57,6 +57,10 @@
       <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
       <br>Nestjs
     </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td> 
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -101,11 +105,7 @@
       <br>Solidity
     </td>  
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="Solidity" />
-      <br>AWS
-    </td> 
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="Solidity" />
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="NGINX" />
       <br>NGINX
     </td> 
   </tr>
