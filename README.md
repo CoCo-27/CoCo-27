@@ -1,7 +1,7 @@
-# Senior Full Stack Software Engineer | MERN | Next.js | Vue & Nuxt.js | Angular | Tailwind CSS | Nest.js | LangChain & ChatGPT Expert
+# Sr. Full Stack Software Engineer | MERN | Next.js | Vue & Nuxt.js | Angular | Tailwind CSS | NestJS | LangChain & ChatGPT Expert
 
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;I+am+a+Front+End+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;I+am+a+Front+End+Engineer+;Always+learning+new+things" alt="Typing SVG" /></a>
   <br/>
   - 🚀 Seasoned Full Stack Software Engineer with over 9+ years of practical experience designing and building scalable, high-performance web applications<br/>
   - 🔥 Proficient in front-end technologies like React/Next.js, Vue/Nuxt.js, Angular as well as back-end technologies like Node.js/Nest.js and Python<br/>
