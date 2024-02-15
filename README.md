@@ -1,4 +1,4 @@
-# Sr. Full-Stack Software Engineer - MERN, MEAN, Next.js, NESTJS | LangChain & ChatGPT | Custom API | AWS Cloudfront
+# Sr. Full-Stack Software Engineer - MERN, MEAN, Next.js, NESTJS | LangChain & ChatGPT | Blockchain | AWS Cloudfront
 
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;I+am+a+Front+End+Engineer+;Always+learning+new+things" alt="Typing SVG" /></a>
